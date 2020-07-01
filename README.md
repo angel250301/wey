@@ -1,0 +1,97 @@
+<!DOCTYPE html> 
+<html lang="es"> 
+      <head>
+          <meta charset="utf-8" />
+        <title>GABO'S WEBSITE</title>
+        <meta name="description" content="informacion sobre Shawn Mendes"/> 
+        <meta name="autor" content="GABRIEL ANGEL" />
+        <meta name="keywords" content="Shawn, Camila y Shanw, Canada" /> 
+        <link  rel= "stylesheet" href= "estilos.css">  
+         
+      </head> 
+      <body>
+         
+        <div class="agrupar">  
+        <header class="header">    
+                <h1>SHAWN MENDES</h1>  
+         </header>
+            <nav class="menu"> 
+              
+                <Ul>   
+                   <li>BIOGRAFIA</li> 
+                   <li>CONCIERTOS</li>  
+                   <li>CANCIONES</li>
+                </Ul>  
+      
+           </nav>
+           <section class="seccion">
+   
+                <article> 
+                   <hgroup>
+                       <h1>BIOGRAFIA</h1>
+                    </hgroup>
+                   <time date time="29-06-2020">Publicado 29-06-2020</time> 
+                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                       Nemo nostrum commodi <small>inventore alias architecto iusto nam in doloremque 
+                       ipsam voluptatem,</small>  maxime explicabo rem exercitationem ut mollitia 
+                       repellendus suscipit quidem?</p>
+   
+                      <img src="shawn.jpg">
+    
+                       <footer> 
+                        <p>Comentarios (20)</p>
+                   
+                       </footer>
+                 
+                      <a href="http://google.com">ENTRAR A GOOGLE CHROME </a>
+                   </article>
+   
+                <article>
+                    <hgroup>
+                       <h1>GRAMIS</h1>
+                   </hgroup>
+                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                        Et sed esse quas inventore amet dolore nam doloremque sapiente, 
+                        ratione eos, quo ad sit sint eligendi dicta neque dignissimos asperiores maiores.</p>
+     
+                        <img src="MENDES.jpg">
+
+            
+                   <footer> 
+                       
+                           <p> sin comentarios (0) </p>
+                   
+                  </footer>   
+                        
+                   
+                 </article>
+           
+           </section>
+   
+           <aside class="columna">
+             <blockquote  cite="http://google.com" >
+                  <hgroup>
+                         <h2>PREMIOS</h2> 
+                   </hgroup>
+                 <P>LA VERDAD NI IDEA DE LO QUE GANO
+                 Y NO SE QUE PONER JSJSJSJS ME MAME WEON </P>
+             </blockquote>
+           
+                <blockquote cite="http://google.com">
+                    <hgroup> 
+                           <h2>EXITOS</h2>
+                    </hgroup>
+                    <P>AQUI TAMPOCO SUPE QUE PONER WEEE LO SIENTO ESTAS LEYENDO EN VANO 
+                        JJSJSJSJ PERO AL MENOS YA ESTOY APRENDIENDO EN 2 DIAS,
+                    ESTA BIEN CREO YO, ALGUN DIA HACKEARE LA "NASA" </P>
+               </blockquote>
+           </aside>
+           <footer class="pie">
+              DERECHOS RESERVADOS 2010-2020
+           </footer>
+
+
+        </div>
+       
+    </body>
+</html>  
