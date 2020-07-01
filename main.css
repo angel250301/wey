@@ -1,0 +1,105 @@
+* { 
+    margin: 0px;
+    padding: 0px;
+}
+
+
+h1 {
+    font-size: 30px;
+    font-family: sans-serif; 
+    font-weight: bold;
+    background: thistle;
+    color: white;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: verdana;
+    font-weight: bold;
+    margin: 2px;
+}
+
+
+blockquote p {
+    color: black;
+    font-size: 10px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+     margin: 5px 15px;             
+}
+
+header, section, nav, article, footer, aside, hgroup {
+       display: block;
+} 
+
+body {
+    text-align: center; 
+    
+}
+
+.agrupar {
+         width: 960px ; color:black; 
+         margin: 30px auto;
+         border: 5px solid black;
+         background:gainsboro;} 
+
+.header {
+            background:  thistle;
+             color: white;
+            padding: 30px;        }
+
+.menu {background: burlywood;
+           padding: 8px 1px;
+        text-align: left;
+         border: 1px solid black;
+        } 
+        
+   
+.menu li {
+    list-style: none; padding: 3px;
+    font-family: 20px  sans-serif ; font-weight: bold;
+     display: inline-block;
+    }
+
+.seccion {
+    margin: 20px;
+    width: 600px;
+    float: left;   
+}
+
+article {
+    background: burlywood ;
+    border: 2px solid black;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.columna {
+    
+    margin: 30px 40px ; float: right;
+    padding: 5px 15px;
+    width: 200px;
+    }
+
+.columna blockquote  {
+    border: 2px solid  black;
+    padding: 30px; margin: 10px ;
+    background: burlywood;
+}
+
+.pie { 
+    clear: both ;
+    padding: 20px;
+    background:  pink; color: black;
+
+    
+}
+
+article footer {
+    text-align: right;
+}
+
+img {
+    display: block; 
+    margin: 20px auto;
+}
